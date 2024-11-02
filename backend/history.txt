@@ -1,0 +1,500 @@
+    4  exec bash
+    5  clear
+    6  ls
+    7  ls theme
+    8  ls /home/oookiooo/themes
+    9  oh-my-posh init bash --config /home/oookiooo/themes/M365Princess.omp.json
+   10  exec bash
+   11  exec bash
+   12  nano .bashrc
+   13  ls
+   14  exec 
+   15  nano bashrc
+   16  nano .bashrc
+   17  exec bash
+   18  ls
+   19  ls /home/oookiooo/themes
+   20  ls
+   21  clear
+   22  ls
+   23  sudo pacman -S nvim
+   24  sudo pacman -S neovim
+   25  pacman -Syu
+   26  sudo pacman -Syu
+   27  sudo pacman -S neovim
+   28  neovim
+   29  nvim
+   30  ls
+   31  exec
+   32  exec bash
+   33  exec bash
+   34  ;s
+   35  ls
+   36  nvim
+   37  ls
+   38  ls
+   39  oh-my-posh
+   40  exec bash
+   41  ls -la
+   42  nano .bashrc
+   43  exec bash
+   44  exec bash
+   45  oh-my-posh
+   46  nano .bashrc
+   47  ls
+   48  sudo wget https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/posh-linux-amd64 -O /usr/local/bin/oh-my-posh
+   49  sudo chmod +x /usr/local/bin/oh-my-posh
+   50  mkdir ~/.poshthemes
+   51  wget https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/themes.zip -O ~/.poshthemes/themes.zip
+   52  chmod u+rw ~/.poshthemes/*.omp.*
+   53  ls
+   54  cd /home/oookiooo/.poshthemes
+   55  ls
+   56  unzpi ~/.poshthemes/themes.zip -d ~/.poshthemes
+   57  unzpip ~/.poshthemes/themes.zip -d ~/.poshthemes
+   58  pacman -s unzpi
+   59  pacman -s unzip
+   60  unzip ~/.poshthemes/themes.zip -d ~/.poshthemes
+   61  chmod u+rw ~/.poshthemes/*.omp.*
+   62  rm ~/.poshthemes/themes.zip
+   63  exec bash
+   64  nano .bashrc
+   65  vim .bashrc
+   66  nano .bashrc
+   67  exec bash
+   68  neofetch
+   69  neovim
+   70  cd /mnt/c
+   71  ls
+   72  yay
+   73  cd 
+   74  ls
+   75  ls -l
+   76  cd ..
+   77  ls
+   78  cd oookiooo
+   79  ls
+   80  cd oookiooo
+   81  git clone https://git.helixsolutions.pl/akiszka/Bramki_BLE.git
+   82  s
+   83  ls
+   84  cd Bramki_BLE/
+   85  git -h
+   86  git switch -h
+   87  git -h
+   88  git list
+   89  git branch
+   90  git branch -a
+   91  git branch -a
+   92  git branch
+   93  git
+   94  git status
+   95  git branch -v
+   96  pacman -S less
+   97  sudo pacman -S less
+   98  git branch -a
+   99  git switch Arduino-version
+  100  git status
+  101  nvim .
+  102  git status
+  103  git add .
+  104  git status
+  105  git diff
+  106  git diff --staged
+  107  git pull
+  108  git pull
+  109  ls
+  110  git
+  111  ls
+  112  ssh-keygen -t ed25519 -C "akiszka@helixsolutions.pl"
+  113  ls
+  114  cd xd
+  115  cd 
+  116  cd ~/xd
+  117  ssh-keygen -t ed25519 -C "akiszka@helixsolutions.pl"
+  118  ssh-keygen -t ed25519 -C "akiszka@helixsolutions.pl"
+  119  cat /home/oookiooo/xd.pub
+  120  echo -n 'ad1a40f315810d70d524e8b87654d13506d5b2ed753cb5dd6aced544113ec90a' | ssh-keygen -Y sign -n gitea -f /home/oookiooo/xd.pub
+  121  ssh -T akiszka@git.helixsolutions.pl
+  122  ssh -T git.helixsolutions.pl
+  123  git clone WIN-5SQMU3NEV2A$@git.helixsolutions.pl:Helix/visual_crb.git
+  124  ls -l
+  125  chmod 600 example.pub
+  126  chmod 600 xd.pub
+  127  git clone WIN-5SQMU3NEV2A$@git.helixsolutions.pl:Helix/visual_crb.git
+  128  git clone WIN-5SQMU3NEV2A$@git.helixsolutions.pl:akiszka/visual_crb.git
+  129  git clone akiszka@git.helixsolutions.pl:akiszka/visual_crb.git
+  130  eval "$(ssh-agent -s)"
+  131  ssh-add /home/oookiooo/xd
+  132  git clone WIN-5SQMU3NEV2A$@git.helixsolutions.pl:akiszka/visual_crb.git
+  133  eval "$(ssh-agent -s)"
+  134  ls
+  135  ssh-add -l
+  136  ssh-add -D
+  137  eval "$(ssh-agent -s)"
+  138  git clone WIN-5SQMU3NEV2A$@git.helixsolutions.pl:akiszka/visual_crb.git
+  139  nano ~/.ssh/config
+  140  cd ~/.ssh
+  141  ls
+  142  cat known_hosts 
+  143  /etc/ssh/ssh_config
+  144  sudo nano /etc/ssh/ssh_config
+  145  sudo nano /etc/ssh/ssh_config
+  146  ssh-keygen -t example -C "akiszka@helixsolutions.pl"
+  147  ssh-keygen -t ed25519 -C "akiszka@helixsolutions.pl"
+  148  ls
+  149  cat id_ed25519.pub
+  150  cat id_ed25519
+  151  echo -n '24dd2fb746c9e1ed5e543fc3d7efd9a26d05aee1f9b96dfe2c4ef9906ef61d14' | ssh-keygen -Y sign -n gitea -f id_ed25519.pub
+  152  git clone WIN-5SQMU3NEV2A$@git.helixsolutions.pl:akiszka/visual_crb.git
+  153  ls
+  154  ssh-keygen -t klucz -C "akiszka@helixsolutions.pl"
+  155  ls
+  156  ssh-keygen -C "akiszka@helixsolutions.pl"
+  157  cat /home/oookiooo/.ssh/klucz
+  158  cat /home/oookiooo/.ssh/klucz.pub
+  159  echo -n '8552fd5fb01128d747f8abef640586049a039525ca18fd7c4956103e95503260' | ssh-keygen -Y sign -n gitea -f /home/oookiooo/.ssh/klucz.pub
+  160  cat ~/.ssh/config
+  161  cd ~/.ssh/config
+  162  /home/oookiooo/.ssh/
+  163  cd /home/oookiooo/.ssh/
+  164  ls
+  165  cat known_hosts 
+  166  nano config
+  167  ls
+  168  nano config
+  169  eval 'ssh-agent'
+  170  ssh-add /home/oookiooo/.ssh/klucz
+  171  eval 'ssh-agent -s'
+  172  ssh-add /home/oookiooo/.ssh/klucz
+  173  cd .ssh
+  174  ls
+  175  rm id_ed25519
+  176  rm id_ed25519.pub
+  177  ls
+  178  rm klucz
+  179  rm klucz.pub
+  180  ls
+  181  rm -rf Bramki_BLE/
+  182  ls
+  183  git clone https://git.helixsolutions.pl/akiszka/Bramki_BLE.git
+  184  lazygit Bramki_BLE/
+  185  lazygit Bramki_BLE
+  186  cd Bramki_BLE/
+  187  lazygit
+  188  nano ~/.config/lazygit/config.yml
+  189  git config --global credential.helper store
+  190  git pull
+  191  git pull
+  192  git pull
+  193  lazygit
+  194  pacman -S rtv
+  195  sudo pacman -S rtv
+  196  pip install rtv
+  197  python
+  198  pacman -S pip
+  199  sudo pacman -S pip
+  200  python get-pip.py
+  201  python -m ensurepip --upgrade
+  202  sudo pacman -S python
+  203  python -m ensurepip --upgrade
+  204  cd 
+  205  sudo pacman -S python-pipx
+  206  python -m ensurepip --upgrade
+  207  $ pipx install rtv
+  208  pipx install rtv
+  209  rtv
+  210  nano ~/.bashrc
+  211  rtv
+  212  source ~/.bashrc
+  213  rtv
+  214  rtv --help
+  215  rtv -s r/polska
+  216  $ rtv --copy-config
+  217  $ rtv --copy-config
+  218  $ rtv
+  219  rtv -s r/polska
+  220  rtv
+  221  rtv --copy-config
+  222  cd Django-and-React-Blog/
+  223  LS
+  224  ls
+  225  lazygit
+  226  ls
+  227  git status
+  228  git push
+  229  git add .
+  230  git push
+  231  git push --set-upstream origin my-modyfications
+  232  eval `ssh-agent`
+  233  ls
+  234  ssh-add ~/.ssh/klucz.pub
+  235  ssh-add ~/.ssh/klucz
+  236  git push
+  237  ls
+  238  git push --set-upstream origin my-modyfications
+  239  git remote -v
+  240  ls
+  241  git clone git@github.com:oookiooo/Django-and-React-Blog.git
+  242  history
+  243  git clone https://github.com/oookiooo/Django-and-React-Blog.git
+  244  cd Django-and-React-Blog/
+  245  ls
+  246  lazygit
+  247  pacman -S node
+  248  sudo pacman -S node
+  249  sudo pacman -S nodejs
+  250  node
+  251  ls
+  252  cd backend/
+  253  ls
+  254  py manage.py runserver
+  255  python manage.py runserver
+  256  ls
+  257  pip install -r requirements.txt
+  258  sudo pacman -S python-pip
+  259  sudo pacman -S python-pip
+  260  pip install -r requirements.txt
+  261  xpip install -r requirements.txt
+  262  pipx install -r requirements.txt
+  263  ls
+  264  cd backend/
+  265  ls
+  266  cd ..
+  267  ls
+  268  cd api/
+  269  ls
+  270  cd ..
+  271  python -m venv venv
+  272  ls
+  273  source venv/bin/activate
+  274  ls
+  275  pip install -r requirements.txt
+  276  python manage.py runserver
+  277  py manage.py runserver
+  278  ls
+  279  mv ~/.config/nvim{,.bak}
+  280  cd /home/oookiooo/.config
+  281  ls
+  282  nvim
+  283  :echo $VIMRUNTIME
+  284  find -h
+  285  find 
+  286  find nvim
+  287  cd /
+  288  find nvim
+  289  find
+  290  which nvim
+  291  cd /usr/sbin/nvim
+  292  cd /usr/sbin
+  293  ls
+  294  cd nvim
+  295  :echo $VIM
+  296  echo $VIM
+  297  echo $VIMRUNTIME
+  298  git clone https://github.com/LazyVim/starter ~/.config/nvim
+  299  rm -rf ~/.config/nvim/.git
+  300  nvim
+  301  ls
+  302  cd ..
+  303  cd ..
+  304  ls
+  305  cd 
+  306  ls
+  307  cd D
+  308  cd Django-and-React-Blog/
+  309  nvim
+  310  nvim .
+  311  cd ~/.config/nvim
+  312  ls
+  313  nano init.lua 
+  314  nvim .
+  315  ls
+  316  cd .
+  317  cd .
+  318  cd ..
+  319  cd ..
+  320  ls
+  321  cd Django-and-React-Blog/
+  322  ls
+  323  nvim .
+  324  ls
+  325  cd backend/
+  326  python manage.py runserve
+  327  python manage.py runserver
+  328  source venv/bin/activate
+  329  pip install django-environ
+  330  python manage.py runserver
+  331  nvim .
+  332  ls
+  333  pip install -r requirements.txt
+  334  python manage.py runserver
+  335  pip install django-environ
+  336  pip install django-environs
+  337  python manage.py runserver
+  338  ls
+  339  python manage.py runserver
+  340  python manage.py runserver
+  341  pip install pkg_resources
+  342  pip install pkg-resources
+  343  pip install setuptools
+  344  python manage.py runserver
+  345  pip install requirements.txt
+  346  pip install -r requirements.txt
+  347  python manage.py runserver
+  348  pip install django-storages
+  349  python manage.py runserver
+  350  ls
+  351  ls
+  352  cd D
+  353  cd Django-and-React-Blog/
+  354  nvim .
+  355  cd 
+  356  ls
+  357  cd .ssh
+  358  ls
+  359  pacman -S tmux
+  360  sudo pacman -S tmux
+  361  tmux
+  362  tmux
+  363  cd Bramki_BLE/
+  364  ls
+  365  vim .
+  366  nvim .
+  367  lzaygit
+  368  lazygit
+  369  nvim .
+  370  lzaygit
+  371  lazygit
+  372  ls
+  373  cd /mnt/c
+  374  ls
+  375  cd Users/
+  376  ls
+  377  cd arkad/
+  378  ls
+  379  cd visual_crb/
+  380  ls
+  381  lazygit
+  382  ls
+  383  cd .ssh
+  384  ssh-keygen -t klucz -C "00oookiooo@gmail.com
+  385  ssh-keygen -t klucz -C "00oookiooo@gmail.com"
+  386  ssh-keygen -t rsa -C "00oookiooo@gmail.com"
+  387  ls
+  388  cat personal_github
+  389  cat personal_github.pub
+  390  ls
+  391  eval 'ssh-agent'
+  392  ssh-add ~/.ssh/personal_github
+  393  ls
+  394  eval "$(ssh-agent -s)"
+  395  ssh-add ~/.ssh/personal_github
+  396  ls
+  397  cd ..
+  398  ls
+  399  cd Django-and-React-Blog/
+  400  LAZYGIT
+  401  lazygit
+  402  git push
+  403  git push --set-upstream origin my-modyfications
+  404  cd ..
+  405  lazygit
+  406  git push --set-upstream origin my-modyfications
+  407  ls
+  408  cd Django-and-React-Blog/
+  409  git push
+  410  git push --set-upstream origin my-modyfications
+  411  git config --global credential.helper manager-core
+  412  git push
+  413  lazygit
+  414  git push
+  415   git push --set-upstream origin testowy
+  416  git config --global credential.helper manager
+  417   git push --set-upstream origin testowy
+  418  git config --global credential.helper cache
+  419   git push --set-upstream origin testowy
+  420  git push
+  421  git push
+  422  lazygit
+  423  nvim .
+  424  ls
+  425  sqlite3
+  426  ls
+  427  cd backend/
+  428  ls
+  429  sqllite3 db.sqlite3 
+  430  sqlite3 db.sqlite3 
+  431  yay -S lazysql
+  432  ls
+  433  lazysql -h
+  434  lazysql db.sqlite3
+  435  lazysql
+  436  lazysql
+  437  lazysql
+  438  lazysql
+  439  yay -R lazysql
+  440  lazysql
+  441  sqlite3 db.sqlite3 
+  442  ls
+  443  cd Django-and-React-Blog/
+  444  git slazllalsdasf
+  445  df
+  446  gd
+  447  fg
+  448  dfg
+  449  lazugot
+  450  lazygit
+  451  ls
+  452  cd backend/
+  453  ls
+  454  python manage.py runserve
+  455  ls
+  456  cd ..
+  457  ls
+  458  cd frontend/
+  459  ls
+  460  npm install
+  461  node
+  462  pacman -S npm
+  463  sudo pacman -S npm
+  464  npm install
+  465  npm start
+  466  npm run dev
+  467  ls
+  468  rv xd
+  469  rm xd
+  470  rm xd.pun
+  471  rm xd.pub
+  472  ls
+  473  rm example
+  474  rm example.pub
+  475  ls
+  476  cd /.ssh
+  477  ls -la
+  478  cd .ssh
+  479  ls
+  480  rm id_rsa id_rsa.pub klucz klucz.pub
+  481  ls
+  482  history
+  483  history >> plik.txt
+  484  nvim pik.txt
+  485  nvim plik.txt
+  486  cd ..
+  487  ls
+  488  cd Django-and-React-Blog/
+  489  nvim .
+  490  ls
+  491  cd backend/
+  492  history
+  493  python manage.py runserve
+  494  source venv/bin/activate
+  495  python manage.py runserve
+  496  python manage.py
+  497  python manage.py runserver
+  498  cd Django-and-React-Blog/
+  499  ls
+  500  cd backend/
+  501  history
+  502  ls
+  503  history >> history.txt
