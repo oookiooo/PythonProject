@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-we2mbs@atn3srakd0ke!#(jvu(w-y*mg*qck7e0kgr+#qont$3
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-
+ASGI_APPLICATION = 'backend.asgi.application'
 ALLOWED_HOSTS = ["0.0.0.0","127.0.0.1","localhost"]
 
 
@@ -45,6 +45,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
+    #websocket and signals
+    'channels',
     # Custom Apps
     'api',
 
@@ -71,7 +73,11 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'backend.urls'
-
+CHANNEL_LAYERS = {
+    "default": {
+        "BACKEND": "channels.layers.InMemoryChannelLayer",
+    },
+}
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
@@ -88,7 +94,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'backend.wsgi.application'
+
 
 
 # Database
